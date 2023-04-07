@@ -3,7 +3,6 @@ import Studio from '../views/Studio.vue'
 
 
 import AboutVue from '@/views/About.vue'
-import Posts from '@/views/Posts.vue'
 import MeVue from '@/views/Me.vue'
 import AppVue from '@/App.vue'
 
@@ -29,11 +28,7 @@ const router = createRouter({
       name: 'studio', 
       component: Studio 
     }, 
-    {
-      path: '/posts', 
-      name: 'posts', 
-      component: Posts 
-    }
+ 
   ]
 })
 

@@ -11,7 +11,7 @@
             <br>
 
          i really like working with React and Vue, which i have also used for this website. at the moment i 
-         am trying to focus more on design. 
+         am trying to focus more on design, with various luck hehe. 
         
         <br> </p>
 

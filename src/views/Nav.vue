@@ -27,6 +27,7 @@
   font-size: 22px;
   margin-top: 1%;
   margin-left: 20px;
+  width: 30px; 
 }
 
 #nav-bar :link {

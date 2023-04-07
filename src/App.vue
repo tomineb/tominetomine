@@ -2,6 +2,7 @@
 import { RouterLink, RouterView } from 'vue-router'
 import Me from './views/Me.vue'
 import Nav from './views/Nav.vue'
+import Footer from '@/views/Footer.vue'
 
 </script>
 
@@ -9,6 +10,7 @@ import Nav from './views/Nav.vue'
     <div>
       <Nav />
       <RouterView />
+      <Footer />
       
     </div>
   
